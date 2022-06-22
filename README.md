@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ventsislavnikolov
 - 👀 I’m interested in Coding and Gaming mostly.
-- 🌱 I’m currently learning NextJS.
+- 🌱 I’m currently learning NextJS and EmberJS.
 - 💞️ I’m looking to collaborate on ReactJS, React-Native, NextJS, NodeJS, ExpressJS, JavaScript and everything arount Full Stack JavaScript :)
 - 📫 How to reach me here or https://www.linkedin.com/in/ventsislavnikolovv/.
